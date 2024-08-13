@@ -1,2 +1,2 @@
 # Pizza
-various pizza places in India
+### Explore the pizza with me
